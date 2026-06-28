@@ -1,7 +1,7 @@
 # 📋 Python AI — Class 1 
 
 ## Summary
-Mayank Aggarwal opened the first session, covering class logistics, learning expectations, and foundational toolchain setup. He introduced UV as the preferred Python package and project manager, explained why a Linux-compatible terminal matters, and live-demonstrated creating and activating virtual environments. The session established the base stack (Python 3.10+, VS Code, UV, terminal) that the entire course builds on.
+ first session, covering class logistics, learning expectations, and foundational toolchain setup. He introduced UV as the preferred Python package and project manager, explained why a Linux-compatible terminal matters, and live-demonstrated creating and activating virtual environments. The session established the base stack (Python 3.10+, VS Code, UV, terminal) that the entire course builds on.
 
 ## Key Concepts
 - **UV** — Rust-based Python package and project manager, ~200x faster than pip; install packages with `uv pip install` or `uv add`
