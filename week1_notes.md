@@ -15,7 +15,19 @@ Python is the primary programming language used for AI and machine learning.
 Download Python
 Download the latest stable version:
 https://www.python.org/downloads/windows/
-Choose:
+
+
+
+
+
+
+
+
+
+
+
+
+                                                                                                                                                            Choose:
 Windows Installer (64-bit)
 Verify Installation
 Open Git Bash or PowerShell
